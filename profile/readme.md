@@ -8,9 +8,13 @@
 ---
 ## 수업 내용
 
-> 소스코드는 수업 진행하면서 여기에 올릴 예정입니다.
+> 소스코드 참고
 >
-[01_Java](https://github.com/2024-SYU-Backend/01_java.git) 
 
-[02_JDBC](https://github.com/2024-SYU-Backend/02_jdbc) | [03_MySQL](https://github.com/2024-SYU-Backend/03_mysql.git)
-
+|챕터|Repository|
+|------|---|
+|Java|[Java lecture source](https://github.com/2024-SYU-Backend/01_java.git) |
+|JDBC|[JDBC lecture source](https://github.com/2024-SYU-Backend/02_jdbc)|
+|MySQL|[MySQL lecture source](https://github.com/2024-SYU-Backend/03_mysql.git)|
+|MyBatis|[MyBatis lecture source](https://github.com/2024-SYU-Backend/04_mybatis.git)|
+|JPA|[JPA lecture source](https://github.com/2024-SYU-Backend/05_jpa.git)|
