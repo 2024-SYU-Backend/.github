@@ -18,3 +18,7 @@
 |MySQL|[MySQL lecture source](https://github.com/2024-SYU-Backend/03_mysql.git)|
 |MyBatis|[MyBatis lecture source](https://github.com/2024-SYU-Backend/04_mybatis.git)|
 |JPA|[JPA lecture source](https://github.com/2024-SYU-Backend/05_jpa.git)|
+|HTML-CSS|[HTML-CSS lecture source](https://github.com/2024-SYU-Backend/06_HTML-CSS.git)|
+|React.js|[React.js lecture source](https://github.com/2024-SYU-Backend/07_React.js.git)|
+|Servlet-JSP|[Servlet-JSP lecture source](https://github.com/2024-SYU-Backend/08_Servlet-JSP.git)|
+|Spring-Core|[Spring-Core lecture source](https://github.com/2024-SYU-Backend/09_Spring-Core.git)|
