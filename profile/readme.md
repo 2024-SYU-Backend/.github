@@ -22,3 +22,4 @@
 |React.js|[React.js lecture source](https://github.com/2024-SYU-Backend/07_React.js.git)|
 |Servlet-JSP|[Servlet-JSP lecture source](https://github.com/2024-SYU-Backend/08_Servlet-JSP.git)|
 |Spring-Core|[Spring-Core lecture source](https://github.com/2024-SYU-Backend/09_Spring-Core.git)|
+|Spring-Boot|[Spring-Boot lecture source](https://github.com/2024-SYU-Backend/10_Spring-Boot.git)|
