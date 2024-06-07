@@ -23,3 +23,7 @@
 |Servlet-JSP|[Servlet-JSP lecture source](https://github.com/2024-SYU-Backend/08_Servlet-JSP.git)|
 |Spring-Core|[Spring-Core lecture source](https://github.com/2024-SYU-Backend/09_Spring-Core.git)|
 |Spring-Boot|[Spring-Boot lecture source](https://github.com/2024-SYU-Backend/10_Spring-Boot.git)|
+|Spring-MyBatis|[Spring-MyBatis lecture source](https://github.com/2024-SYU-Backend/11_Spring-MyBatis.git)|
+|Spring-Security|[Spring-Security lecture source](https://github.com/2024-SYU-Backend/12_Spring-Security.git)|
+|Rest API|[Rest API lecture source](https://github.com/2024-SYU-Backend/13_REST-API.git)|
+
